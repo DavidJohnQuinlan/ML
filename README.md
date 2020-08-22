@@ -11,7 +11,7 @@ This repository contains a number of different statistical modelling and machine
     1. Applied a Poisson regression, Linear regression and Poisson generalised additive model (GAM) to the bike sharing dataset. 
     2. Applied a Poisson offset regression model to the smoking and lung cancer dataset.  
  - Clustering:
-  1. Applied a k-means and hierarhical clustering algorithms to the Chicago crime dataset. Also created a visualisation of the crime rates in the City of Chicago based on the clustering results. 
+  - Applied a k-means and hierarhical clustering algorithms to the Chicago crime dataset. Also created a visualisation of the crime rates in the City of Chicago based on the clustering results. 
 - RShiny:
   - Created an RShiny application which allows easy user interaction with the Left ventricular hypertrophy Dataset. The application allows a user to examine summary statistics, marginal histograms, boxplots and density plots of the dataset. The user can also apply a linear, logistic or Poisson regression model to the dataset based on their exact requirements. 
 - Neural Network:
