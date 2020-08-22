@@ -1,5 +1,4 @@
-# ML
-Repository containing all things Data Science.
+# ML - Repository containing all things Data Science.
 
 This repository contains a number of different statistical modelling and machine learing projects. Below is a brief summary of the types of models applied within this repository:
 
