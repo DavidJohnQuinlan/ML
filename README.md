@@ -1,6 +1,10 @@
 # ML - Repository containing all things Data Science.
 
-This repository contains a number of different statistical modelling and machine learning projects. All of the projects were implemented using either R or Python. The repository is split up into folders where each folder represents a certain statistical or machine learning topic. Each folder subsequently contains number of further subfolders, where each subfolder contains an example of that particular statistical or machine learning algorithm applied to a real world dataset. Each subfolder is self contained, with the majority of subfolders containing the associated dataset of interest. In some cases the dataset was too large to store on github, thus, it will be required to download it from the web, details of the necessary steps to download such datasets are documented within each subfolder. Below is a brief summary of the types of models applied within this repository:
+This repository contains a number of different statistical modelling and machine learning projects. All of the projects were implemented using either R or Python. 
+
+The repository is split up into folders where each folder represents a certain statistical or machine learning topic. Each folder subsequently contains number of further subfolders, where each subfolder contains an example of that particular statistical or machine learning algorithm applied to a real world dataset. Each subfolder is self contained, with the majority of subfolders containing the associated dataset of interest. In some cases the dataset was too large to store on github, thus, it will be required to download it from the web, details of the necessary steps to download such datasets are documented within each subfolder. 
+
+Below is a brief summary of the types of models applied within this repository:
 
 Table of Contents
 =================
