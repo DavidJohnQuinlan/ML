@@ -18,12 +18,12 @@ Table of Contents
   * The CNN folder contains a notebook detailing the implementation of the DecovNet (Deconvolutional Network) visualisation technique as defined initially by Zeiler and Fergus. This technique is also applied to the MNIST dataset. 
 * [Linear Regression](https://github.com/DavidJohnQuinlan/ML/tree/master/Linear_Regression)
   * The linear regression folder contains two projects:
-    1. Applied a linear regression model to the feul consumption dataset. 
-    2. Applied a linear regression model to the KBB Automobile dataset.
+    1. The application of a linear regression model to the feul consumption dataset. 
+    2. The application of a linear regression model to the KBB Automobile dataset.
 * [Poisson Regression](https://github.com/DavidJohnQuinlan/ML/tree/master/Poisson_Regression)
   * The Poisson regression folder contains two projects: 
-    1. Applied a Poisson regression, Linear regression and Poisson generalised additive model (GAM) to the bike sharing dataset. 
-    2. Applied a Poisson offset regression model to the smoking and lung cancer dataset.  
+    1. The application of a Poisson regression, Linear regression and Poisson generalised additive model (GAM) to the bike sharing dataset. 
+    2. The application of a Poisson offset regression model to the smoking and lung cancer dataset.  
 * [RShiny](https://github.com/DavidJohnQuinlan/ML/tree/master/Rshiny_Application)
   * The RShiny folder contains a project where an RShiny application was created which allows easy user interaction with the Left ventricular hypertrophy Dataset. The application allows a user to examine summary statistics, marginal histograms, boxplots and density plots of the dataset. The user can also apply a linear, logistic or Poisson regression model to the dataset based on their exact requirements. 
 <!--te-->
